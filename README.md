@@ -702,7 +702,7 @@ http状态码有那些？分别代表是什么意思？
     请求返回后，便进入了我们关注的前端模块
     简单来说，浏览器会解析HTML生成DOM Tree，其次会根据CSS生成CSS Rule Tree，而javascript又可以根据DOM API操作DOM
 
-详情：[从输入 URL 到浏览器接收的过程中发生了什么事情？][8]
+详情：[https://juejin.im/post/5c7646f26fb9a049fd108380][8]
 
 平时如何管理你的项目？
 -----------
@@ -1291,7 +1291,7 @@ js操作获取和设置cookie
   [5]: http://segmentfault.com/blog/trigkit4/1190000000758184#articleHeader5
   [6]: http://segmentfault.com/blog/trigkit4/1190000000800711#articleHeader30
   [7]: http://segmentfault.com/blog/trigkit4/1190000000656717
-  [8]: http://segmentfault.com/blog/trigkit4/1190000000697254
+  [8]: https://juejin.im/post/5c7646f26fb9a049fd108380
   [9]: http://segmentfault.com/blog/trigkit4/1190000002440502
   [10]: http://segmentfault.com/blog/trigkit4/1190000000691919
   [11]: http://segmentfault.com/blog/trigkit4/1190000002585760
