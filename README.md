@@ -11,8 +11,9 @@
     其他：  HTTP、安全、正则、优化、重构、响应式、移动端、团队协作、可维护、SEO、UED、架构、职业生涯 
 -------------
 
-其他优秀面试大纲：
-https://juejin.im/post/5c62b92de51d457fd77b22ce#heading-28
+其他优秀的面试文章：
+* 中高级前端大厂面试秘籍：https://juejin.im/post/5c62b92de51d457fd77b22ce#heading-28
+* 前端面试查漏补缺：https://juejin.im/post/5c6bab91f265da2dd94c9f9e
 
  
 1.请你谈谈Cookie的弊端
