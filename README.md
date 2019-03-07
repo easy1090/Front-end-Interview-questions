@@ -12,7 +12,7 @@
 -------------
 
 其他优秀的面试文章：
-* 中高级前端大厂面试秘籍：https://juejin.im/post/5c62b92de51d457fd77b22ce#heading-28
+* 中高级前端大厂面试秘籍：https://juejin.im/post/5c64d15d6fb9a049d37f9c20
 * 前端面试查漏补缺：https://juejin.im/post/5c6bab91f265da2dd94c9f9e
 
  
